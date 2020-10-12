@@ -1,0 +1,26 @@
+.mint-searchbar{
+	padding: 12px 20px;
+	background-color: #4E7FFF !important;
+}
+.mint-search{
+	height: auto;
+}
+.mint-searchbar-inner{
+	height: 30px;
+}
+.mint-searchbar-cancel {
+    color: #fff;
+    margin-top: 1rem;
+}
+.mint-header{
+	background-color:#4E7FFF;;
+	height: 50px !important;
+}
+/* muse css */
+.container{
+	margin: 0;
+	padding: 0;
+}
+.mu-input.has-label .mu-input-label{
+	font-size: 1.4rem;
+}
